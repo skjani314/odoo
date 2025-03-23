@@ -1,0 +1,6 @@
+[submodule "odoo/jani_addons/submodules/Work-assist"]
+	path = odoo/jani_addons/submodules/Work-assist
+	url = git@github.com:Vinay212324/Work-assist.git
+[submodule "odoo/jani_addons/Work-assist"]
+	path = odoo/jani_addons/Work-assist
+	url = git@github.com:Vinay212324/Work-assist.git
