@@ -1,5 +1,5 @@
 {
-    'name': 'Work Assist', 
+    'name': 'jani train', 
     'version': '17.0.1.0.0',
     'author': 'sk jani', 
     'category': 'Custom',
